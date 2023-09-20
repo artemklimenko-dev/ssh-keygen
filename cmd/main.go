@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/artemklimenko-dev/ssh-keygen/ssh"
+
+	"github.com/artemklimenko-dev/ssh-keygen"
 )
 
 func main() {
